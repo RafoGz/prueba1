@@ -1,0 +1,10 @@
+
+.boxMain{
+    display: flex;
+    background-color: aquamarine;
+}
+.box{
+    background-color: blue;
+    border-radius: 5%;
+
+}
