@@ -1,10 +1,20 @@
 
 .boxMain{
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 5%;
+    padding-right: 5%;
     background-color: aquamarine;
+    font-family: sans-serif;
+    padding: 5%;
 }
 .box{
+    margin: 40px;
+    padding: 30px;
     background-color: blue;
-    border-radius: 5%;
-
+    border-radius: 20%;
+    font-family: monospace;
+    border-style: solid;
+    border-color: black;
 }
